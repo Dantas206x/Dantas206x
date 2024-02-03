@@ -7,7 +7,7 @@
 
 ![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=Dantas206x&show_icons=true&theme=radical)
 <div>
-    <img  align="center" alt="html5" src="blob:https://vercel.com/49ba415b-2a28-4868-a84a-a59251a529c6"/>
+    <img  align="center" alt="html5" src="https://drive.google.com/file/d/1LW-v5l3JooJC4RC3HFwQQ9P15Qaj2h75/view"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia 😊
